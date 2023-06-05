@@ -1,0 +1,6 @@
+Tambahkan input kode unik ketika melakukan login
+
+
+
+Link tutorial: https://www.youtube.com/watch?v=J5NwYISzT5w
+Link konfigurasi .env: https://jogjatech.com/blog/tutorial/laravel-7-send-email-laravel-using-queue-example/

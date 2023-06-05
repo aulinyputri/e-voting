@@ -1,0 +1,58 @@
+body {
+    font-family: 'Scada', sans-serif;
+}
+
+.navbar-brand {
+    letter-spacing: 3px;
+}
+
+.sec1 {
+    /* margin-top: 3px; */
+    min-height: 500px;
+}
+
+.sec1-mt {
+    margin-top: 100px;
+}
+
+.sec1-col-1 {
+    margin-bottom: 30px;
+}
+
+.sec1-img {
+    margin-top: -50px;
+}
+
+@media screen and (max-width: 400px) {
+    .sec1-mt {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .sec1-col-1 {
+        margin-bottom: 30px;
+    }
+
+    .sec1-img {
+        margin-top: 0px;
+    }
+
+    .label-register {
+        /* color: red !important; */
+        /* text-align: left !important; */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* .sec1-cart {
+        margin-top: 100px;
+    } */
+
+    .card-responsive {
+        margin-top: 10px;
+    }
+
+    .img-verif-unpam {
+        display: none;
+    }
+}
